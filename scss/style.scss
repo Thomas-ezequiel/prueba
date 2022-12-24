@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.div-1 {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+
+  .parrafo {
+    font-size: 20px;
+  }
+}
+
+.container1 {
+  max-width: 50%;
+}
